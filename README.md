@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohitgiri959
-- 👀 I’m interested in ... software developmeny
+- 👀 I’m interested in ... software development
 - 🌱 I’m currently learning ... java and data structure/design and analysis of algorithm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
